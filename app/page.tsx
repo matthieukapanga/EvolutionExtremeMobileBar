@@ -93,7 +93,7 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="flex items-center space-x-4">
                 <Phone className="h-6 w-6 text-pink-500" />
-                <span className="text-lg">(XXX) XXX-XXXX</span>
+                <span className="text-lg">+27 81 807 4871</span>
               </div>
               <div className="flex items-center space-x-4">
                 <Mail className="h-6 w-6 text-pink-500" />
@@ -101,7 +101,7 @@ export default function Home() {
               </div>
               <div className="flex items-center space-x-4">
                 <Instagram className="h-6 w-6 text-pink-500" />
-                <span className="text-lg">@evolutionextremebar</span>
+                <span className="text-lg">@evolutionextreme.mobilebar</span>
               </div>
               <div className="flex items-center space-x-4">
                 <Facebook className="h-6 w-6 text-pink-500" />
