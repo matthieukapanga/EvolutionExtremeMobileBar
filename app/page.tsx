@@ -10,7 +10,7 @@ export default function Home() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1575444758702-4a6b9222336e?w=1600&q=80)',
+            backgroundImage: 'url(https://static.vecteezy.com/system/resources/thumbnails/049/110/023/small_2x/cozy-bar-interior-with-wooden-counter-and-shelves-filled-with-bottles-creating-a-warm-and-inviting-atmosphere-perfect-for-nightlife-scenes-photo.jpeg)',
             backgroundPosition: 'center',
             filter: 'brightness(0.6)'
           }}
